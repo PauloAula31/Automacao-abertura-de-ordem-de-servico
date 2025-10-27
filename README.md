@@ -30,3 +30,6 @@ Desenvolvido por Paulo Arthur de Assis Silva com o objetivo de otimizar processo
 do setor de Suporte Técnico.
 
 <img width="1916" height="1032" alt="Screenshot_1" src="https://github.com/user-attachments/assets/54ab1eab-8eec-4305-b895-0c38c2f86186" />
+
+https://github.com/user-attachments/assets/f99f0525-6737-4b70-8768-65f22f54149c
+
