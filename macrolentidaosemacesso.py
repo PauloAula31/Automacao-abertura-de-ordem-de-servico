@@ -1,4 +1,4 @@
-mport pyautogui
+import pyautogui
 import pyperclip
 import time
 
